@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(226, 226, 226);
+}
+
+input[type="file"] {
+  margin: 5px;
+  padding: 3px;
+  background-color: #969696;
+  border: 1px solid #969696;
+  border-radius: 5px;
+}
+
+.file_input {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
